@@ -1,5 +1,6 @@
 ﻿define a = Character("???", who_color="#000000")
 image missingmanrain = "missing man rain.jpg"
+image pcdesktop = "pcdesktop-kuroinu.jpg"
 image blackground = "black.jpg"
 
 #Prologo
@@ -8,10 +9,10 @@ label start:
 
     a "Me presento. Soy un hombre de 34 años que en este momento no tiene ni casa ni empleo."
     a "No soy nadie especial, tan solo un chico del montón simpático y rechoncho, que se arrepiente de cómo ha vivido hasta ahora."
-
-    #Imagen de PC
-
     a "Lo primero que he de decir es que tenía casa hasta hace 3 horas."
+    
+    scene pcdesktop
+
     a "Era un ni-ni bastante veterano que no había salido de su habitación para nada este último año."
     a "Hace poco murieron mis padres, pero como me negaba a salir de mi habitación, no asistí a la reunión familiar posterior y mucho menos al funeral."
     a "Lo que llevó a que me echaran de la casa."
@@ -22,6 +23,8 @@ label start:
     a "La cosa es, que cuando mis hermanos volvieron del funeral vestidos de luto, decidieron irrumpir en mi cuarto y me encontraron masturbándome, tras lo que se pusieron hechos una furia y me dijeron que cortaban toda relación conmigo."
     a "Les ignoré."
 
+    scene blackground
+    hide pcdesktop
     #Sonido de vidrios rotos
 
     a "Pero mi hermano pequeño se puso a darle golpes con un bate a mi posesión más preciada, por encima hasta de mi vida."
@@ -44,7 +47,7 @@ label start:
 
     scene missingmanrain
 
-    a "Todo lo que hice fue masturbarme viendo un vídeo porno sin censura el día del funeral de mis padres."
+    a "Todo lo que hice fue masturbarme viendo un hentai sin censura el cual me costó mucho conseguir, durante el día del funeral de mis padres."
     "¿Que debería hacer ahora?"
     a "No, mi cerebro ya sabía la respuesta: encontrar un trabajo aunque fuera temporal; después un lugar donde vivir y finalmente, comprar comida."
     "¿De qué forma conseguiría todo esto?"

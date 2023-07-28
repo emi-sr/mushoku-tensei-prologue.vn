@@ -45,13 +45,25 @@ label start:
     ". . . . ."
     "¿En qué me equivoqué?"
 
-    scene missingmanrain
+    #scene night
 
     a "Todo lo que hice fue masturbarme viendo un hentai sin censura el cual me costó mucho conseguir, durante el día del funeral de mis padres."
     "¿Que debería hacer ahora?"
     a "No, mi cerebro ya sabía la respuesta: encontrar un trabajo aunque fuera temporal; después un lugar donde vivir y finalmente, comprar comida."
     "¿De qué forma conseguiría todo esto?"
-    a "Cuando regresé a mis sentidos, mis padres ya habían fallecido, y ni siquiera quiero mencionar que no asistí al funeral, por lo que tampoco fui a la reunión familiar, y al final simplemente fui expulsado de la casa."
+    a "Ni siquiera estoy muy seguro de cómo conseguir un trabajo."
+    a "Aunque, y no estoy intentando presumir, tengo más de 10 años de experiencia en cómo no salir de casa, ¿Cómo demonios voy a obtener uno?"
+    a "Pero dejando eso a un lado... Debería al menos llevar mi currículum a algun sitio, ir al lugar indicado y realizar una entrevista."
+    a "En este caso, tendré que realizar una entrevista vestido con una sudadera bañada en sudor y sangre..."
+    a "¿Qué tiendas vendían los formularios para el currículum? ¿Habrá en estaciones de servicio o quizás en supermercados? Quizás en un supermercado los encuentre, pero no tengo dinero para pagarlo tampoco."
+    "Además, ¿qué haré una vez consiga todo eso?"
+    a "Asumiendo que tenga suerte, obtenga un préstamo del banco, compre otra indumentaria, alojamiento y mis papeles para la entrevista... creo recordar que el formulario tienes que rellenarlo con una dirección a tu nombre o al de un familiar, así que ni por esas."
+    "Se acabó... En este instante he comprendido que mi vida ha llegado a su fin."
+    a "«Hah...>"
+
+    scene missingmanrain
+
+    "Y encima se pone a llover."
 
     scene blackground
     hide missingmanrain

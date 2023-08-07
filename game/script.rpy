@@ -1,6 +1,7 @@
 ﻿define a = Character("???", who_color="#000000")
 image missingmanrain = "missing man rain.jpg"
 image pcdesktop = "pcdesktop-kuroinu.jpg"
+image townnight = "town night.jpg"
 image blackground = "black.jpg"
 
 #Prologo
@@ -45,25 +46,35 @@ label start:
     ". . . . ."
     "¿En qué me equivoqué?"
 
-    #scene night
+    scene townnight
+    with dissolve
 
-    a "Todo lo que hice fue masturbarme viendo un hentai sin censura el cual me costó mucho conseguir, durante el día del funeral de mis padres."
+    "Todo lo que hice fue masturbarme viendo un hentai sin censura, el cual me costó mucho conseguir, mientras transcurría el día del funeral de mis padres."
     "¿Que debería hacer ahora?"
-    a "No, mi cerebro ya sabía la respuesta: encontrar un trabajo aunque fuera temporal; después un lugar donde vivir y finalmente, comprar comida."
+    "No, mi cerebro ya sabía la respuesta: encontrar un trabajo aunque fuera temporal; después un lugar donde vivir y finalmente, comprar comida."
     "¿De qué forma conseguiría todo esto?"
-    a "Ni siquiera estoy muy seguro de cómo conseguir un trabajo."
-    a "Aunque, y no estoy intentando presumir, tengo más de 10 años de experiencia en cómo no salir de casa, ¿Cómo demonios voy a obtener uno?"
-    a "Pero dejando eso a un lado... Debería al menos llevar mi currículum a algun sitio, ir al lugar indicado y realizar una entrevista."
-    a "En este caso, tendré que realizar una entrevista vestido con una sudadera bañada en sudor y sangre..."
-    a "¿Qué tiendas vendían los formularios para el currículum? ¿Habrá en estaciones de servicio o quizás en supermercados? Quizás en un supermercado los encuentre, pero no tengo dinero para pagarlo tampoco."
+    "Ni siquiera estoy muy seguro de cómo conseguir un trabajo."
+    "Aunque, y no estoy intentando presumir, tengo más de 10 años de experiencia en cómo no salir de casa, ¿Cómo demonios voy a obtener uno?"
+    "Pero dejando eso a un lado... Debería al menos llevar mi currículum a algun sitio, ir al lugar indicado y realizar una entrevista."
+    "En este caso, tendré que realizar una entrevista vestido con una sudadera bañada en sudor y sangre..."
+    "¿Qué tiendas vendían los formularios para el currículum? ¿Habrá en estaciones de servicio o quizás en supermercados? Quizás en un supermercado los encuentre, pero no tengo dinero para pagarlo tampoco."
     "Además, ¿qué haré una vez consiga todo eso?"
-    a "Asumiendo que tenga suerte, obtenga un préstamo del banco, compre otra indumentaria, alojamiento y mis papeles para la entrevista... creo recordar que el formulario tienes que rellenarlo con una dirección a tu nombre o al de un familiar, así que ni por esas."
+    "Asumiendo que tenga suerte, obtenga un préstamo del banco, compre otra indumentaria, alojamiento y mis papeles para la entrevista... creo recordar que el formulario tienes que rellenarlo con una dirección a tu nombre o al de un familiar, así que ni por esas."
     "Se acabó... En este instante he comprendido que mi vida ha llegado a su fin."
+    
+    scene blackground
+    hide townnight
+
     a "«Hah...>"
 
     scene missingmanrain
+    hide blackground
 
     "Y encima se pone a llover."
+    "....."
+
+    a "«... Si pudiera empezar otra vez, desde el principio.>"
+    "Se me escapan estas palabras que soy incapaz de tragarme, pero es que no nací siendo una persona tan mezquina."
 
     scene blackground
     hide missingmanrain

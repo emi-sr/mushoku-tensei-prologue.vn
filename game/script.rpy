@@ -80,4 +80,12 @@ label start:
     hide missingmanrain
     with dissolve
 
-    return
+    a "Fui el tercer varón de una familia relativamente bien avenida, junto a mis dos hermanos mayores, mi hermana mayor y mi hermano pequeño, siendo el cuarto de 5 hermanos."
+    a "Desde Primaria se me ha elogiado como una persona muy lista para mi edad, aunque en realidad no se me daba tan bien estudiar; pero era muy espabilado y además era bastante buen deportista; hasta el punto que durante un tiempo llegué a ser hasta el más popular de mi clase."
+    a "Después, ya en Secundaria, decidí unirme al club de Computación, donde me asesoré sobre las revistas que consultar y el dinero necesario para montarme mi propio ordenador."
+    a "Esto me hizo resaltar más a los ojos de mis familiares, que eran incapaces de entender lo que hacía al escribir cosas tan sencillas como printf («Hola mundo»)."
+    a "Pero el punto de inflexión de mi vida fue cuando entré al Bachillerato... bueno no. Si lo pienso bien, todo comenzó en mi último año de Secundaria, en el que me preocupé tanto en trastear con mi ordenador que dejé de lado los estudios."
+    a "Empecé a pensar que estudiar lo que me daban en el colegio era una pérdida de tiempo, sintiendo que no era útil en la vida real, y esto me llevó a entrar en el peor instituto de mi provincia, y ni por esas le di importancia."
+    a "Sentía que podía tener éxito si me esforzaba al máximo, y que era muy distinto al resto de idiotas que se matricularon en el instituto; esas eran las palabras exactas que creía."
+
+    return    

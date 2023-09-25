@@ -13,6 +13,7 @@ label start:
     a "Lo primero que he de decir es que tenía casa hasta hace 3 horas."
     
     scene pcdesktop
+    with fade
 
     a "Era un ni-ni bastante veterano que no había salido de su habitación para nada este último año."
     a "Hace poco murieron mis padres, pero como me negaba a salir de mi habitación, no asistí a la reunión familiar posterior y mucho menos al funeral."
@@ -49,7 +50,7 @@ label start:
     scene townnight
     with dissolve
 
-    "Todo lo que hice fue masturbarme viendo un hentai sin censura, el cual me costó mucho conseguir, mientras transcurría el día del funeral de mis padres."
+    "Todo lo que hice fue masturbarme viendo un Hentai 'sin censura', el cual me costó mucho conseguir, mientras transcurría el día del funeral de mis padres."
     "¿Que debería hacer ahora?"
     "No, mi cerebro ya sabía la respuesta: encontrar un trabajo aunque fuera temporal; después un lugar donde vivir y finalmente, comprar comida."
     "¿De qué forma conseguiría todo esto?"
@@ -74,18 +75,27 @@ label start:
     "....."
 
     a "«... Si pudiera empezar otra vez, desde el principio.>"
-    "Se me escapan estas palabras que soy incapaz de tragarme, pero es que no nací siendo una persona tan mezquina."
+    "Se me escapan esas palabras que soy incapaz de tragarme, pero es que no nací siendo una persona tan mezquina."
 
     scene blackground
     hide missingmanrain
     with dissolve
 
     a "Fui el tercer varón de una familia relativamente bien avenida, junto a mis dos hermanos mayores, mi hermana mayor y mi hermano pequeño, siendo el cuarto de 5 hermanos."
-    a "Desde Primaria se me ha elogiado como una persona muy lista para mi edad, aunque en realidad no se me daba tan bien estudiar; pero era muy espabilado y además era bastante buen deportista; hasta el punto que durante un tiempo llegué a ser hasta el más popular de mi clase."
-    a "Después, ya en Secundaria, decidí unirme al club de Computación, donde me asesoré sobre las revistas que consultar y el dinero necesario para montarme mi propio ordenador."
+    a "Desde Primaria se me ha elogiado como una persona muy lista para mi edad, aunque en realidad no se me daba tan bien estudiar; pero era muy espabilado y además era bastante buen deportista; hasta el punto que durante un tiempo llegué a ser el más popular de mi clase."
+    a "Después, ya en Secundaria, decidí unirme al club de Computación, donde me asesoré sobre las revistas para consultar información, y el dinero necesario para montarme mi propio ordenador."
     a "Esto me hizo resaltar más a los ojos de mis familiares, que eran incapaces de entender lo que hacía al escribir cosas tan sencillas como printf («Hola mundo»)."
-    a "Pero el punto de inflexión de mi vida fue cuando entré al Bachillerato... bueno no. Si lo pienso bien, todo comenzó en mi último año de Secundaria, en el que me preocupé tanto en trastear con mi ordenador que dejé de lado los estudios."
-    a "Empecé a pensar que estudiar lo que me daban en el colegio era una pérdida de tiempo, sintiendo que no era útil en la vida real, y esto me llevó a entrar en el peor instituto de mi provincia, y ni por esas le di importancia."
-    a "Sentía que podía tener éxito si me esforzaba al máximo, y que era muy distinto al resto de idiotas que se matricularon en el instituto; esas eran las palabras exactas que creía."
+    a "Pero el punto de inflexión en mi vida fue cuando entré al Bachillerato... bueno no. Si lo pienso bien, todo comenzó en mi último año de Secundaria, en el que me preocupé tanto en trastear con mi ordenador que dejé de lado los estudios."
+    a "Empecé a pensar que estudiar lo que me daban en el colegio era una pérdida de tiempo, sintiendo que no era útil en la vida real, y esto me llevó a entrar en el peor instituto de mi provincia. Y ni por esas le di importancia."
+    a "Sentía que podía tener éxito si me esforzaba al máximo, y que era muy distinto al resto de idiotas que se matricularon en el instituto; esas eran las palabras exactas en las cuales creía."
+    a "Todavía recuerdo el incidente que ocurrió entonces."
+    a "Mientras hacía cola para comprar mi almuerzo en la cafetería, hubo un chaval que se coló delante mío, a lo que refunfuñé un par de frases mostrando lo injusto que estaba siendo. Supongo que lo hice por orgullo y por la actitud de Chuunibyou que tenía por aquel entonces."
+    a "Desafortunadamente, era uno de mis senpais, por no añadir que una de las personas más peligrosas de todo mi instituto."
+    a "Al final, acabó dándome puñetazos en la cara hasta dejármela totalmente hinchada, tras eso me desnudó y me crucificó en medio del patio; desnudo, amoratado, atado y rodeado de gente que no paraba de hacerme fotos, como si fuera una modelo o algo, y que acabaron distribuidas por todo el instituto."
+    a "Haciendo que en un solo día cayera hasta lo más bajo en el escalón social, todos riéndose de mí y hasta me pusieron el mote de Pollita Encapuchada."
+    a "Durante un mes no pisé el instituto y me convertí en un hikikomori. Y al verme actuar así, mis padres y mis hermanos me dijeron las frases típicas que no piensas demasiado pero que todo el mundo repite."
+    a "'¡Esfuérzate! ¡anímate!'"
+    a "Pero no creo que estuviera equivocado. Nadie en mi situación hubiera seguido yendo a clase. Imposible. Sabía que todos aquellos a los que conocía ya habían visto las fotos con las que me humillaron y que se habían sumado a las burlas."
+    a "Y pensando así, sin escuchar lo que me dijeran en casa, continué ese nuevo estilo de vida, porque aunque no saliera de mi cuarto, mientras tuviera mi ordenador e internet, podía pasar el tiempo."
 
     return    

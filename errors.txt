@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 43: end of line expected.
-    _"¿En qué me equivoqué?"_
-                            ^
+File "game/script.rpy", line 97: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        a "Durante un mes no pisé el instituto y me convertí en un hikikomori. Y al verme actuar así, mi padre y mis hermanos me dijeron las frases típicas que no piensas demasiado pero que todo el mundo repite.
 
 Ren'Py Version: Ren'Py 8.1.1.23060707
-Wed Jul 19 20:21:29 2023
+Mon Sep  4 15:52:49 2023
